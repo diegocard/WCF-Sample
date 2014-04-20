@@ -19,6 +19,7 @@ These operations are exposed at http://localhost:8000/ServiceModelSamples/Servic
 ## Client
 
 The client calls the service, executing the following operations:
+
 ```CSharp
 double value1 = 100.00D;
 double value2 = 15.99D;
